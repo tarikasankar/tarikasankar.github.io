@@ -4,5 +4,6 @@ title: Tarika Sankar
 ---
 <div class="blurb">
 	<h1>Tarika Sankar</h1>
-	<p>Tarika Sankar is a PhD student in English Literature at the University of Miami. <a href="/about">Read more about my life...</a></p>
+	<li><a href="/assets/Photos/Professional headshot.jpeg"></a></li>
+	<p>Tarika Sankar is a PhD student in English Literature at the University of Miami. </p>
 </div><!-- /.blurb -->
