@@ -5,5 +5,5 @@ title: Tarika Sankar
 <div class="blurb">
 	<h1>Tarika Sankar</h1>
 	<img src="Professional headshot.jpg" alt="Tarika Sankar" style="width:437px;height:474px;">
-	<p>Tarika Sankar is a PhD student in English Literature at the University of Miami.</p>
+	<p>Tarika Sankar is a community-engaged researcher of Indo-Caribbean diaspora; critical race, gender and sexuality scholar; higher education advocate and digital humanist. She is currently Digital Humanities Librarian at Brown University..</p>
 </div><!-- /.blurb -->
